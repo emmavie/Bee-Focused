@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Noto+Serif+HK:wght@300&display=swap');
+
+.window{
+    width:250px;
+}
+*{
+    background-color: #ffe36a;
+    font-family: 'Noto Serif HK', serif;
+}
