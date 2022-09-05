@@ -9,6 +9,9 @@
         "js":["scripts/script.js"]
     }
 ],
+"icons": {
+    "128": "Images/beeIcon.png"
+},
 "permissions":[
     "activeTab"
 ],
